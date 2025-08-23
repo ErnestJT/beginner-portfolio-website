@@ -215,7 +215,6 @@ nav {
     display:grid;
     grid-template-columns: 2fr 2fr;
     text-wrap: wrap pretty;
-    border: min(5px, 5vw) solid var(--color-black);
 }
 
 #footer-grid1 {
