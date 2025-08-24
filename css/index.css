@@ -19,6 +19,8 @@ body {
 
 #topnav {
     background-color: #0E2841;
+    width: 100vw;
+    overflow: hidden;
     color: white;
     padding: 10px; 
 }
